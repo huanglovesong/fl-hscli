@@ -15,6 +15,8 @@ const app = dva({
 
   },
 });
+import { default as home } from './models/home';
+app.model(home);
 
 // =======================
 // 2. Plugins
