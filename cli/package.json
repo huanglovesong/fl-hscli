@@ -48,7 +48,6 @@
     "dva-loading": "^2.0.1",
     "dva-model-extend": "^0.1.2",
     "fl-pro": "^1.8.60",
-    "fulu-method": "^1.0.1",
     "immutable": "^3.8.2",
     "konva": "^2.0.3",
     "lodash": "^4.17.10",
