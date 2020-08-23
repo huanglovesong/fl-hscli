@@ -1,0 +1,27 @@
+{
+  "name": "fl-hscli",
+  "version": "1.0.10",
+  "description": "",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "create-react-app-fl": "bin/index.js"
+  },
+  "keywords": [],
+  "author": "hs",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.19.0",
+    "cpx": "^1.5.0",
+    "figlet": "^1.4.0",
+    "make-dir": "^1.3.0",
+    "ora": "^3.4.0",
+    "shelljs": "^0.8.3",
+    "slash": "^2.0.0",
+    "fs": "0.0.1-security",
+    "fs-extra": "^9.0.1"
+  }
+}
